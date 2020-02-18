@@ -1,0 +1,10 @@
+name: Trash
+version: 1.0
+main: trashcan.trash.Core
+api-version: 1.13
+description: A basic plugin that opens an inventory that deletes the items after closing
+
+commands:
+  trash:
+    description: opens a trash can
+    aliases: [tr, bin]
